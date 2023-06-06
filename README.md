@@ -1,5 +1,7 @@
 # Phoebe
 wordpress 附件下载插件 phoebe开源版,Phoebe是一款基于Vue设计开发的响应式Wordpress附件独立页下载插件。
+# 插件地址
+https://www.lylares.com/phoebe-for-wordpress-download-plugin-v1-2-5.html
 
 ## 特性
 
